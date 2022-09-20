@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Meetup-App/static/css/main.4ea6a503.css",
+    "main.js": "/Meetup-App/static/js/main.916d621b.js",
+    "index.html": "/Meetup-App/index.html",
+    "main.4ea6a503.css.map": "/Meetup-App/static/css/main.4ea6a503.css.map",
+    "main.916d621b.js.map": "/Meetup-App/static/js/main.916d621b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ea6a503.css",
+    "static/js/main.916d621b.js"
+  ]
+}
