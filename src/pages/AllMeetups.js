@@ -20,6 +20,7 @@ const AllMeetupsPage = () => {
             id: keys,
             ...Data[keys],
           };
+          console.log(meetups)
           meetups.push(meetup);
         }
         setIsLoading(false);
